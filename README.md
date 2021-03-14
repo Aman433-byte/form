@@ -22,7 +22,7 @@ p {
 <body> 
 <p id="demo"></p> 
 <script> 
-var deadline = new Date("Feb 7, 2021 11:00:00").getTime(); 
+var deadline = new Date("Mar 31, 2021 11:00:00").getTime(); 
 var x = setInterval(function() { 
 var now = new Date().getTime(); 
 var t = deadline - now; 
@@ -45,7 +45,6 @@ document.getElementById("demo").innerHTML = days + "d " 
 
 
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeMH1WHUQAsDr8rVdTZ3kAuKmIdD2Tlcguq6x_pcYWkjuUsyQ/viewform?embedded=true" width="800" height="800" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>.</font>
 
 
 
